@@ -1,0 +1,22 @@
+{
+  "name": "evgenybalashov/yii2-instagram-authclient",
+  "description": "yii2-authclient instagram extenion",
+  "keywords": ["yii2", "authclient", "instagram"],
+  "homepage": "http://github.com/evgenybalashov/yii2-instagram-authclient",
+  "require": {
+    "yiisoft/yii2-authclient": "~2.2.*@dev"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evgeniy Balashov",
+      "email": "evgenybalashovv@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "evgenybalashov\\authclient\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
